@@ -130,7 +130,7 @@ export default class App extends React.Component {
     */}
                     <View style={styles.button}> 
                   <Button   
-                    onPress={() =>   onPress={() => alert ('Hello World!')}
+                    onPress={() => alert ('Hello World!')}
                     title="Click me!" />
                   </View>
                 </View>
